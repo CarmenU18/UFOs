@@ -16,16 +16,16 @@ By clicking on the following links you can access the Javascript and HTML files:
 
 The UFO data is displayed in table format with filters that allow a more agile access to the information:
 
-<img src = "Resources/Image1.png"></img>
+<img src = "../Resources/Image1.png"></img>
 
 The user can select any search criteria: Date, City, State, Country or Shape as shown in the image above and by pressing "Enter", "tab" or clicking outside the search box, the filter retrieves the matching data and loads only the matching records into the table.
 For example: Country = us, City = el cajon and Shape = triangle; you get:
 
-<img src = "Resources/Image2.png"></img>
+<img src = "../Resources/Image2.png"></img>
 
 You can use only one filter, for example: Shape = light:
 
-<img src = "Resources/Image3.png"></img>
+<img src = "../Resources/Image3.png"></img>
 
 ## Summary
 
